@@ -12,8 +12,7 @@
 
 - 🎯 Currently learning Next.js & TypeScript  
 - 🌟 Passionate about building scalable tech with real-world impact  
-- 🤖 Explored AI & Cloud through internship with IBM & Edunet  
-- 📱 Built Android app using React Native & Appwrite  
+- 🤖 Explored AI & Cloud through internship with IBM & Edunet    
 - 📌 Next goals: Payment Gateway Integration, Advanced Backend, and SaaS Projects  
 - 💻 Enjoying system design and exploring distributed systems  
 - 📈 Open to Software Development Engineer (SDE) & Full Stack Developer roles  
